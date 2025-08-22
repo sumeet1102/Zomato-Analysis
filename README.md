@@ -59,4 +59,4 @@ PowerBI : https://github.com/sumeet1102/Zomato-Analysis/blob/main/Screenshot%20P
 
 Tableau : https://github.com/sumeet1102/Zomato-Analysis/blob/main/Screenshot%20Tableau%20Dashboard.png
 
-Excel :
+Excel : https://github.com/sumeet1102/Zomato-Analysis/blob/main/Screenshot%20Excel%20Dashboard.png
