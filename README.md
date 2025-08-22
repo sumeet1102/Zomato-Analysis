@@ -57,6 +57,6 @@ Certain months show spikes in new restaurant openings.
 
 PowerBI : https://github.com/sumeet1102/Zomato-Analysis/blob/main/Screenshot%20PowerBI%20Dashboard.png
 
-Tableau : 
+Tableau : https://github.com/sumeet1102/Zomato-Analysis/blob/main/Screenshot%20Tableau%20Dashboard.png
 
 Excel :
